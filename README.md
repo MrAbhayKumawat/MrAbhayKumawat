@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Kumawat</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img alt="coding" align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
+<img alt="coding" align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 - 👨‍💻 All of my projects are available at [https://mrabhaykumawat.netlify.app/](https://mrabhaykumawat.netlify.app/)
 
